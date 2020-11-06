@@ -1,0 +1,24 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "scripts": {
+    "async": "nodemon async.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/learn-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/learn-js/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/learn-js#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
