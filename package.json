@@ -4,6 +4,7 @@
   "description": "",
   "main": "async.js",
   "scripts": {
+    "arrays": "nodemon arrays.js",
     "async": "nodemon async.js",
     "map": "nodemon mapSet.js"
   },
