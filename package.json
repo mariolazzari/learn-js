@@ -4,7 +4,8 @@
   "description": "",
   "main": "async.js",
   "scripts": {
-    "async": "nodemon async.js"
+    "async": "nodemon async.js",
+    "map": "nodemon mapSet.js"
   },
   "repository": {
     "type": "git",
